@@ -1,0 +1,7 @@
+students: 6
+errors: 6
+Coding: 2
+Dance: 1
+Music: 2
+Quiz: 3
+Robotics: 2

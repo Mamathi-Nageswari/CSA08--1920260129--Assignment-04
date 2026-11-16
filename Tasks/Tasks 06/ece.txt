@@ -1,0 +1,3 @@
+192312001,Charan S,ECE,charan.s@college.edu,Robotics;Quiz
+192312002,Divya M,ECE,divya.m@college.edu
+192312003,Esha P,ECE,esha.p@college.edu,Dance;Music

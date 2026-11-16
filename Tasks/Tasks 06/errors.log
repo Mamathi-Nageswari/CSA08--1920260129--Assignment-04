@@ -1,0 +1,6 @@
+cse.txt:2: invalid e-mail 'bhavya@college'
+cse.txt:3: duplicate registration 192311001
+ece.txt:2: expected 5 fields, found 4
+eee.txt: missing department file
+mech.txt:2: expected 5 fields, found 1
+mech.txt:3: invalid e-mail 'gokul v@college.edu'
